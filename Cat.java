@@ -1,4 +1,4 @@
-final class Cat {
+public final class Cat {
   private final String name;
   private final int age;
 
